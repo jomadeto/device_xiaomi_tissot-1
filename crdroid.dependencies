@@ -1,8 +1,8 @@
 [
   {
-    "repository": "jomadeto/device_xiaomi_msm8953-common",
+    "repository": "jomadeto/device_xiaomi_msm8953-common-1",
     "target_path": "device/xiaomi/msm8953-common",
-    "branch": "crdroid",
+    "branch": "master",
     "remote": "github"
   }
 
@@ -14,9 +14,9 @@
   }
 
   {
-    "repository": "DerpFest-Devices/vendor_xiaomi_tissot",
+    "repository": "jomadeto/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "derp10",
+    "branch": "master",
     "remote": "github"
   }
 ]
